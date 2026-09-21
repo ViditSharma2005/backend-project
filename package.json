@@ -1,0 +1,25 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "backend-project",
+  "keywords": [
+    "javascript",
+    "node",
+    "backend"
+  ],
+  "homepage": "https://github.com/ViditSharma2005/backend-project#readme",
+  "bugs": {
+    "url": "https://github.com/ViditSharma2005/backend-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViditSharma2005/backend-project.git"
+  },
+  "license": "ISC",
+  "author": "Vidit Sharma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
